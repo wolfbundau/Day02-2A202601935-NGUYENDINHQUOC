@@ -27,7 +27,7 @@ Nhóm tiến hành pitch và chấm điểm 3 bài toán từ các thành viên 
 |---|---|---:|---:|---:|---:|---:|---|
 | **1. Tra cứu tin nhắn trôi trên Discord** | Nguyễn Đình Quốc | 4 | 4 | 4 | 3 | 15/20 | Không chọn |
 | **2. Tóm tắt & trích xuất Paper AI** | Nguyễn Đình Quốc | 5 | 5 | 5 | 4 | **19/20** | **CHỌN** |
-| **3. Kiểm tra tự động checklist Git** | Nguyễn Văn A | 4 | 3 | 4 | 4 | 15/20 | Không chọn |
+| **3. Kiểm tra tự động checklist Git** | Lưu Quang Linh | 4 | 3 | 4 | 4 | 15/20 | Không chọn |
 
 ### Lý do nhóm quyết định chọn Bài toán #2 (Tóm tắt Paper AI):
 - **Pain vô cùng lớn và phổ biến:** 100% thành viên nhóm và bạn học ngành AI đều tốn 2-3 tiếng/bài báo khi làm tổng quan tài liệu (Literature Review).
