@@ -51,7 +51,6 @@ Dưới đây là 10 bài toán/vấn đề thực tế quan sát được từ 
 * **Bottleneck:** Lục tìm tin nhắn thủ công mất thời gian và phụ thuộc vào thời gian phản hồi của người khác.
 * **Impact:** Mất khoảng 60-90 phút/tuần cho mỗi học viên; giảng viên/TA bị phiền vì trả lời cùng 1 câu hỏi nhiều lần.
 * **Success Metric:** Giảm thời gian tìm thông tin từ 15 phút xuống dưới 2 phút; giảm 70% câu hỏi lặp lại trên kênh chung.
-* **Boundary:** Không tự bịa nội dung không có trích dẫn, quá trình tổng hợp nội dung chỉ bao gồm các paper đã tìm được ở trước.
 
 #### Draft Current Workflow vs. Future Workflow (Problem #1)
 
@@ -79,8 +78,7 @@ FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
 * **Bottleneck:** Bước đọc hiểu chi tiết & tổng hợp kết quả giữa các bài báo khác nhau cực kỳ tốn thời gian (lên đến nhiều giờ).
 * **Impact:** 2-3 tiếng/bài báo. Ảnh hưởng tới tiến độ đề xuất giải pháp cho nghiên cứu.
 * **Success Metric:** Rút ngắn thời gian đọc & nắm ý chính 1 bài báo từ 150 phút xuống 40 phút.
-* **Non-AI Alternative:** Đọc bản tóm tắt của blog/review có sẵn hoặc đọc nhanh abstract (nhưng nhiều bài mới chưa ai viết review hoặc abstract quá chung chung).
-* **AI Hypothesis:** AI tìm bài báo phù hợp, đọc file PDF, trích xuất bảng so sánh (Architecture, Dataset, Baseline, Metrics) và cho phép hỏi đáp trực tiếp trên tài liệu.
+* **Boundary:** Không tự bịa nội dung không có trích dẫn, quá trình tổng hợp nội dung chỉ bao gồm các paper đã tìm được ở trước.
 
 ```text
 CURRENT WORKFLOW(Đọc thủ công - 2-3h/bài)
