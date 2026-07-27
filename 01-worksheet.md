@@ -166,16 +166,16 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+| 1 | **Lặp lại** | Tìm lại quyết định, link tài liệu, bài tập mẫu bị trôi trong kênh Chat Discord / Zalo của lớp | Học viên, Thành viên nhóm | Mất 15-20 phút/lần tìm; 3-4 lần/tuần bị hỏi trùng câu hỏi cũ. |
+| 2 | **Tốn thời gian** | Đọc và tóm tắt bài báo khoa học (Research Paper/ArXiv) 15-20 trang để làm tổng quan tài liệu | Sinh viên AI, Nghiên cứu sinh | Mất 2-3 tiếng/bài; dễ nản hoặc bỏ sót insight cốt lõi. |
+| 3 | **AI có thể tốt hơn** | Kiểm tra tự động cấu trúc bài nộp (Checklist, file thiếu, sai format) trước khi push lên Git nộp bài | Học viên | Mất 15 phút soi thủ công nhưng vẫn hay bị trừ điểm trễ/thiếu file. |
+| 4 | **Pain từ người khác** | Thành viên nhóm không nắm rõ task/deadline cá nhân do phân công việc rải rác trong tin nhắn | Cả nhóm đồ án (3-4 người) | 2-3 lần/tuần phải hỏi lại "Ai làm phần này?"; hay bị delay sát giờ nộp. |
+| 5 | **Tốn thời gian** | Debug lỗi xung đột môi trường (CUDA, PyTorch, Python version mismatch) khi chạy code mẫu | Sinh viên, Dev mới | Mất 1-2 tiếng/lần search StackOverflow mà không rõ nguyên nhân gốc. |
+| 6 | **Lặp lại** | Viết file README.md & Hướng dẫn cài đặt (Setup Instruction) cho repo đồ án nhóm | Thành viên phụ trách Git | Mất 30-45 phút/repo để gõ lại các bước setup môi trường lặp đi lặp lại. |
+| 7 | **Pain từ người khác** | Học viên mới liên tục chụp ảnh hỏi lỗi cài đặt phần mềm/công cụ cơ bản trên group chung | Mentor, TA, Học viên cũ | Trả lời lặp đi lặp lại cùng một câu hỏi 5-7 lần/tuần. |
+| 8 | **Tốn thời gian** | Tổng hợp feedback từ Giảng viên/Mentor sau buổi Review đồ án thành danh sách Action Items | Trưởng nhóm đồ án | Mất 45 phút nghe lại ghi âm/xem lại note để chốt danh sách cần sửa. |
+| 9 | **AI có thể tốt hơn** | Chuyển đổi sơ đồ phác thảo tay (Mindmap/Flowchart trên giấy) thành mã Mermaid/Diagram số | Sinh viên thiết kế workflow | Mất 30-40 phút gõ lại Mermaid thủ công. |
+| 10 | **Lặp lại** | Format lại code, chuẩn hóa docstring & comment theo chuẩn PEP8 trước khi nộp bài | Sinh viên lập trình | Mất 20 phút/bài nộp làm công việc format thủ công. |
 
 Gợi ý cho `Dấu hiệu thật`: mất bao lâu, xảy ra mấy lần/tuần, bao nhiêu người gặp, có log/ticket/review/comment không, nếu không sửa thì hậu quả là gì.
 
