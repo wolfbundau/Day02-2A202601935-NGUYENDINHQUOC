@@ -88,7 +88,7 @@ CURRENT WORKFLOW(Đọc thủ công - 2-3h/bài)
 [Tìm bài báo] ──> [Đọc lướt] ──> [Đọc chi tiết] ──> [Ghi chú thủ công] ──> [So sánh thủ công] 
 
 FUTURE WORKFLOW (Hỗ trợ AI - < 30 phút/bài):
-[Tìm bài báo tự động] ──> [AI tóm tắt bài báo] ──> [AI trích xuất bảng so sánh + cho phép hỏi đáp]
+[Tìm bài báo tự động] ──> [AI tóm tắt bài báo] ──> [AI trích xuất bảng so sánh]  ──> [Cho phép hỏi đáp]
 ```
 
 ### 📌 Problem Card #3: Kiểm tra tự động cấu trúc bài nộp & Checklist trước khi push Git (TOP 3)
