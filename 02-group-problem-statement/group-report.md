@@ -8,7 +8,7 @@
 ## 1. Thành viên nhóm & Phân công vai trò
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm |
-|-----|-----------|-------------|--------------------|----------------|
+|-----|-----------|-------------|--------------------|
 | 1   | **Nguyễn Đình Quốc** | 2A202601935 | Đóng góp ý tưởng, pitching bài toán AI |
 | 2   | **Đinh Tuấn Minh** | 2A202601892 | Nhà đầu tư, phát triển giải pháp |
 | 3   | **Lưu Quang Linh** | 2A202601084 | Pitching bài toán, thiết kế trình bày |
