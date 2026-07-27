@@ -51,8 +51,7 @@ Dưới đây là 10 bài toán/vấn đề thực tế quan sát được từ 
 * **Bottleneck:** Lục tìm tin nhắn thủ công mất thời gian và phụ thuộc vào thời gian phản hồi của người khác.
 * **Impact:** Mất khoảng 60-90 phút/tuần cho mỗi học viên; giảng viên/TA bị phiền vì trả lời cùng 1 câu hỏi nhiều lần.
 * **Success Metric:** Giảm thời gian tìm thông tin từ 15 phút xuống dưới 2 phút; giảm 70% câu hỏi lặp lại trên kênh chung.
-* **Non-AI Alternative:** Tạo file Notion/Pinned Messages để lưu link quan trọng (tuy nhiên mọi người vẫn quên cập nhật hoặc quên vào xem).
-* **AI Hypothesis:** Trợ lý AI tích hợp Discord RAG (Retrieval-Augmented Generation) tự động quét tin nhắn/pin, index dữ liệu và trả lời ngay kèm link nguồn.
+* **Boundary:** Không tự bịa nội dung không có trích dẫn, quá trình tổng hợp nội dung chỉ bao gồm các paper đã tìm được ở trước.
 
 #### Draft Current Workflow vs. Future Workflow (Problem #1)
 
