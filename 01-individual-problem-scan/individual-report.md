@@ -70,7 +70,7 @@ FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
 
 * **Problem 1 câu:** Sinh viên tốn 2-3 tiếng để đọc một bài báo AI 20 trang nhưng khó nắm bắt ngay mô hình kiến trúc, dataset và kết quả thực nghiệm chính.
 * **Actor:** Sinh viên làm đồ án AI / Nghiên cứu sinh.
-* **Thời điểm / Bối cảnh:** Giai đoạn đọc tài liệu tham khảo (Literature Review) để chọn phương pháp làm dự án.
+* **Thời điểm / Bối cảnh:** Giai đoạn đọc tài liệu tham khảo để chọn phương pháp làm dự án.
 * **Current Workflow:**
   1. Tải file PDF từ ArXiv/Google Scholar.
   2. Đọc lướt Abstract, Introduction, Conclusion (30 phút).
@@ -82,7 +82,13 @@ FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
 * **Non-AI Alternative:** Đọc bản tóm tắt của blog/review có sẵn (nhưng nhiều bài mới chưa ai viết review).
 * **AI Hypothesis:** AI đọc file PDF, trích xuất bảng so sánh (Architecture, Dataset, Baseline, Metrics) và cho phép hỏi đáp trực tiếp trên tài liệu.
 
----
+```text
+CURRENT WORKFLOW(Đọc thủ công - 2-3h/bài)
+[Tìm bài báo] ──> [Đọc lướt] ──> [Đọc chi tiết] ──> [Ghi chú thủ công]
+
+FUTURE WORKFLOW (Hỗ trợ AI - < 30 phút/bài):
+[Tìm bài báo] ──> [Hỏi AI Bot] ──> [AI trích xuất bảng so sánh + cho phép hỏi đáp]
+```
 
 ### 📌 Problem Card #3: Kiểm tra tự động cấu trúc bài nộp & Checklist trước khi push Git (TOP 3)
 
@@ -99,3 +105,10 @@ FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
 * **Success Metric:** 100% bài nộp đúng cấu trúc thư mục và không thiếu file bắt buộc.
 * **Non-AI Alternative:** Dùng script bash/python linter kiểm tra sự tồn tại của file (File existence check).
 * **AI Hypothesis:** AI/Rule Linter quét file Markdown, kiểm tra nội dung từng section đã được điền đủ chưa (không chỉ kiểm tra file có tồn tại hay không).
+```text
+CURRENT WORKFLOW(Kiểm tra thủ công - 10-15 phút/lần)
+[Hoàn thành bài] ──> [Đọc README/Rubric] ──> [Kiểm tra thủ công từng file]
+
+FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
+[Hoàn thành bài] ──> [Hỏi AI Bot] ──> [AI quét và báo lỗi cấu trúc/thiếu]
+```

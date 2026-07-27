@@ -166,7 +166,7 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
 |---|---|---|---|---|
-| 1 | **Lặp lại** | Tìm lại quyết định, link tài liệu, bài tập mẫu bị trôi trong kênh Chat Discord / Zalo của lớp | Học viên, Thành viên nhóm | Mất 15-20 phút/lần tìm; 3-4 lần/tuần bị hỏi trùng câu hỏi cũ. |
+| 1 | **Lặp lại** | Tìm lại quyết định, link tài liệu, bài tập mẫu bị trôi trong kênh Chat Discord / Zalo của lớp | Học viên, Thành viên nhóm | Mất 5-10 phút/lần tìm; 3-4 lần/tuần bị hỏi trùng câu hỏi cũ. |
 | 2 | **Tốn thời gian** | Đọc và tóm tắt bài báo khoa học (Research Paper/ArXiv) 15-20 trang để làm tổng quan tài liệu | Sinh viên AI, Nghiên cứu sinh | Mất 2-3 tiếng/bài; dễ nản hoặc bỏ sót insight cốt lõi. |
 | 3 | **AI có thể tốt hơn** | Kiểm tra tự động cấu trúc bài nộp (Checklist, file thiếu, sai format) trước khi push lên Git nộp bài | Học viên | Mất 15 phút soi thủ công nhưng vẫn hay bị trừ điểm trễ/thiếu file. |
 | 4 | **Pain từ người khác** | Thành viên nhóm không nắm rõ task/deadline cá nhân do phân công việc rải rác trong tin nhắn | Cả nhóm đồ án (3-4 người) | 2-3 lần/tuần phải hỏi lại "Ai làm phần này?"; hay bị delay sát giờ nộp. |
