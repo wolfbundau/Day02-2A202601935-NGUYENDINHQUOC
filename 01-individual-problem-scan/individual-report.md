@@ -68,26 +68,27 @@ FUTURE WORKFLOW (Hỗ trợ AI - < 2 phút/lần):
 
 ### 📌 Problem Card #2: Tóm tắt & Trích xuất insight từ Research Paper AI (TOP 2)
 
-* **Problem 1 câu:** Sinh viên tốn 2-3 tiếng để đọc một bài báo AI 20 trang nhưng khó nắm bắt ngay mô hình kiến trúc, dataset và kết quả thực nghiệm chính.
-* **Actor:** Sinh viên làm đồ án AI / Nghiên cứu sinh.
-* **Thời điểm / Bối cảnh:** Giai đoạn đọc tài liệu tham khảo để chọn phương pháp làm dự án.
+* **Problem 1 câu:** Nghiên cứu sinh tốn thời gian để tìm kiếm các bài báo liên quan từ nhiều nguồn khác nhau và thêm nhiều tiếng để đọc bài báo nhưng khó nắm bắt nội dung bài báo.
+* **Actor:** Sinh viên, Nhà nghiên cứu đang tìm kiếm bài báo phù hợp.
+* **Thời điểm / Bối cảnh:** Giai đoạn tìm tài liệu tham khảo để chọn phương pháp thực hiện dự án.
 * **Current Workflow:**
-  1. Tải file PDF từ ArXiv/Google Scholar.
-  2. Đọc lướt Abstract, Introduction, Conclusion (30 phút).
-  3. Đọc chi tiết phương pháp & thử nghiệm, tra từ điển/thuật ngữ (90 phút).
+  1. Lên Google Scholar, connectedpapers hay litmaps để tìm kiếm những bài báo liên quan đến chủ đề đang quan tâm. 
+  2. Tải file PDF từ ArXiv/Google Scholar, tạp chí/hội nghị tương ứng.
+  3. Đọc hiểu bài báo, phương pháp & thử nghiệm, tra từ điển/thuật ngữ (120 phút).
   4. Ghi chú thủ công vào file Notion/Word (30 phút).
-* **Bottleneck:** Bước đọc hiểu chi tiết & tổng hợp kết quả giữa các bài báo khác nhau cực kỳ tốn thời gian.
-* **Impact:** 2-3 tiếng/bài báo. Ảnh hưởng tới tiến độ đề xuất giải pháp cho đồ án.
-* **Success Metric:** Rút ngắn thời gian đọc & nắm ý chính 1 bài báo từ 150 phút xuống 30 phút.
-* **Non-AI Alternative:** Đọc bản tóm tắt của blog/review có sẵn (nhưng nhiều bài mới chưa ai viết review).
-* **AI Hypothesis:** AI đọc file PDF, trích xuất bảng so sánh (Architecture, Dataset, Baseline, Metrics) và cho phép hỏi đáp trực tiếp trên tài liệu.
+  5. So sánh các bài báo liên quan với nhau (20 phút).
+* **Bottleneck:** Bước đọc hiểu chi tiết & tổng hợp kết quả giữa các bài báo khác nhau cực kỳ tốn thời gian (lên đến nhiều giờ).
+* **Impact:** 2-3 tiếng/bài báo. Ảnh hưởng tới tiến độ đề xuất giải pháp cho nghiên cứu.
+* **Success Metric:** Rút ngắn thời gian đọc & nắm ý chính 1 bài báo từ 150 phút xuống 40 phút.
+* **Non-AI Alternative:** Đọc bản tóm tắt của blog/review có sẵn hoặc đọc nhanh abstract (nhưng nhiều bài mới chưa ai viết review hoặc abstract quá chung chung).
+* **AI Hypothesis:** AI tìm bài báo phù hợp, đọc file PDF, trích xuất bảng so sánh (Architecture, Dataset, Baseline, Metrics) và cho phép hỏi đáp trực tiếp trên tài liệu.
 
 ```text
 CURRENT WORKFLOW(Đọc thủ công - 2-3h/bài)
-[Tìm bài báo] ──> [Đọc lướt] ──> [Đọc chi tiết] ──> [Ghi chú thủ công]
+[Tìm bài báo] ──> [Đọc lướt] ──> [Đọc chi tiết] ──> [Ghi chú thủ công] ──> [So sánh thủ công] 
 
 FUTURE WORKFLOW (Hỗ trợ AI - < 30 phút/bài):
-[Tìm bài báo] ──> [Hỏi AI Bot] ──> [AI trích xuất bảng so sánh + cho phép hỏi đáp]
+[Tìm bài báo tự động] ──> [AI tóm tắt bài báo] ──> [AI trích xuất bảng so sánh + cho phép hỏi đáp]
 ```
 
 ### 📌 Problem Card #3: Kiểm tra tự động cấu trúc bài nộp & Checklist trước khi push Git (TOP 3)
